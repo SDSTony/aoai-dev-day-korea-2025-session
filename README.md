@@ -1,0 +1,1 @@
+# Azure OpenAI Dev Day Korea 2025 세션 발표 - RAG 구현을 간단하게 해주는 Azure OpenAI On Your Data 뜯어보기
